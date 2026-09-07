@@ -1,4 +1,4 @@
-# Linkedin_profile_project
+# Linkedin_profile_
 LinkedIn profile project showcasing my profile, skills, projects, and career development progress
 This repository contains my LinkedIn Profile Project created as part of a professional development course.
 
